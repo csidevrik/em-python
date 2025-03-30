@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# NO GRABAR ARCHIVO AVI DE A RAIZ
+*.avi
